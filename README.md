@@ -30,8 +30,9 @@ This study focuses on deep learning techniques based on genomic data and pedigre
 
 ## Results
 
-![Alt text]([image_url](https://github.com/jganitzer/MasterThesis/blob/main/images/mse.png))
-
+![MSE](https://github.com/jganitzer/MasterThesis/blob/main/images/mse.svg)
+![MSE](https://github.com/jganitzer/MasterThesis/blob/main/images/r2.svg)
+![MSE](https://github.com/jganitzer/MasterThesis/blob/main/images/chr_16.svg)
 
 ## Conclusion
 
