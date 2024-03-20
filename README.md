@@ -37,8 +37,17 @@ This study focuses on deep learning techniques based on genomic data and pedigre
 
 ## Results
 
+### Performance Metrics
 ![MSE](https://github.com/jganitzer/MasterThesis/blob/main/images/mse.svg)
 ![R2](https://github.com/jganitzer/MasterThesis/blob/main/images/r2.svg)
+
+#### Hyena-R-LT
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/jganitzer/MasterThesis/blob/main/images/corr_Hyena_r_lt.svg" alt="XAI" width="425"/>
+    <img src="https://github.com/jganitzer/MasterThesis/blob/main/images/wsp_Hyena_r_lt.svg" alt="XAI" width="530"/>
+</div>
+   
+### Interpretability Analysis
 ![Manhattan](https://github.com/jganitzer/MasterThesis/blob/main/images/manhattan.svg)
 ![XAI](https://github.com/jganitzer/MasterThesis/blob/main/images/chr_16.svg)
 
