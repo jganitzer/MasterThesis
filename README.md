@@ -28,6 +28,11 @@ Subsidiary questions include:
 
 This study focuses on deep learning techniques based on genomic data and pedigree information. It aims to identify measurable animal characteristics without considering factors such as biological domain knowledge, environmental influences, or additional medical data. The models utilized in this study are trained using genotyped and phenotyped animals, leveraging transformer-encoder and graph neural network-based architectures. These architectures are assessed against benchmarks like Single-Step Genomic Best Linear Unbiased Prediction (ssGBLUP) and XGBoost to evaluate their performance. The evaluation of models is performed on individuals from the last generation of an animal population, aligning with the primary objective of genomic prediction.
 
+## Results
+
+![Alt text]([image_url](https://github.com/jganitzer/MasterThesis/blob/main/images/mse.png))
+
+
 ## Conclusion
 
 The integration of deep learning methods into genomic breeding value estimation for dairy cattle offers promising opportunities to advance animal breeding. This study utilizes transformer-encoder and graph neural network-based architectures to predict breeding values in Austrian Fleckvieh cattle using genomic and pedigree data. The results show the success of these models in predicting breeding values that closely match true breeding values. Furthermore, interpretability analysis establishes associations between markers and quantitative trait loci, highlighting correlations between key markers selected by the deep learning model and their biological relevance.
