@@ -28,11 +28,19 @@ Subsidiary questions include:
 
 This study focuses on deep learning techniques based on genomic data and pedigree information. It aims to identify measurable animal characteristics without considering factors such as biological domain knowledge, environmental influences, or additional medical data. The models utilized in this study are trained using genotyped and phenotyped animals, leveraging transformer-encoder and graph neural network-based architectures. These architectures are assessed against benchmarks like Single-Step Genomic Best Linear Unbiased Prediction (ssGBLUP) and XGBoost to evaluate their performance. The evaluation of models is performed on individuals from the last generation of an animal population, aligning with the primary objective of genomic prediction.
 
+## Methodology
+
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/jganitzer/MasterThesis/blob/main/images/transformerArchitectures.png" alt="XAI" width="500"/>
+    <img src="https://github.com/jganitzer/MasterThesis/blob/main/images/graphSageArchitecture.png" alt="XAI" width="300"/>
+</div>
+
 ## Results
 
 ![MSE](https://github.com/jganitzer/MasterThesis/blob/main/images/mse.svg)
-![MSE](https://github.com/jganitzer/MasterThesis/blob/main/images/r2.svg)
-![MSE](https://github.com/jganitzer/MasterThesis/blob/main/images/chr_16.svg)
+![R2](https://github.com/jganitzer/MasterThesis/blob/main/images/r2.svg)
+![Manhattan](https://github.com/jganitzer/MasterThesis/blob/main/images/manhattan.svg)
+![XAI](https://github.com/jganitzer/MasterThesis/blob/main/images/chr_16.svg)
 
 ## Conclusion
 
